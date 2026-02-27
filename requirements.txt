@@ -8,3 +8,4 @@ scikit-learn
 pypdf
 PyMuPDF
 python-pptx
+google-genai
